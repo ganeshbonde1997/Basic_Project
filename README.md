@@ -1,4 +1,4 @@
 # Basic_Project
-Array
-Collection
-Basic Programs
+Array,
+Collection,
+Basic Programs...
